@@ -1,0 +1,80 @@
+h2{font-family:Helvetica}
+header{
+	height:120px;
+	width:1289px;
+	background-color:#FFDB58;
+	padding: 30px;}
+main{
+	height:500px;
+	width:1289px;
+	background-image:url("./img/background.jpg");
+	padding:30px;
+}
+.logo {
+	display: inline-block;
+}
+.menu {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;
+}
+.image{
+	margin:100px;
+	height: 320px;
+	display: inline-block;
+	margin: 10px;
+	vertical-align: top;
+ }
+.elmenu{
+	display: inline-block;
+	padding: 20px;
+	font-size: 22px;
+	background-color: #FDE910;
+	margin: 0px 50px 0px 50px;
+	font-family:Helvetica;
+	text-decoration:none;
+	color:black;
+}
+.zdes {
+	background-color:#FFD800;
+
+}
+
+.search{
+	display: inline-block;
+	width: 250px;
+	height: 30px;
+	margin: 0px 5px 0px 50px;}
+footer{
+	height: 150px;
+	width: 1289px;
+	background-color:#FFDB45;
+	padding: 30px;
+	vertical-align:bottom;
+}
+body {margin: 0px;}
+.proz{
+	background-color:#fde910f7;
+	width: 1100px;
+	height:350px;
+	padding:40px;
+	margin: 0 auto;
+
+	}
+.sprava {
+	width: 550px;
+	line-height: 32px;
+	font-size: 25px;
+	font-family:Helvetica;
+}
+.unium{
+	width:250px;
+	margin-top:10px;
+}
+.footer_signature{
+	font-size: 20px;
+	font-family:Helvetica;
+	text-align:right;
+	display: inline-block;
+	margin:0px 0px 0px 1050px;
+}
